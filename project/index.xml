@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Welcome</title>
+    <link>https://tfeng7.github.io/project/</link>
+      <atom:link href="https://tfeng7.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tfeng7.github.io/images/icon_hu9dc07378506dda20152aae5397c06783_79375_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://tfeng7.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>国家自然科学基金面上项目</title>
+      <link>https://tfeng7.github.io/project/mianshang/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://tfeng7.github.io/project/mianshang/</guid>
+      <description>&lt;p&gt;对流耦合MRG波西传过程中的垂直结构变化及湿过程的作用机制&lt;/p&gt;
+&lt;p&gt;Feng, T., X.-Q. Yang, W. Zhou, R. Huang, L. Wu, and D. Yang, 2016: Synoptic-Scale Waves in Sheared Background Flow over the Western North Pacific. J. Atmos. Sci., 73, 4583–4603, doi:10.1175/JAS-D-16-0064.1.
+冯涛, 黄荣辉, 杨修群, 沈新勇, 胡开明, 2016: 2004年与 2006年7~9月西北太平洋上空大尺度环流场与天气尺度波动的差别及其对热带气旋生成的影响. 大气科学, 40, 157–175, doi:DOI:10.3878/j.issn.1006-9895.1505.14162.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>国家自然科学基金青年项目（已结题）</title>
+      <link>https://tfeng7.github.io/project/qingnian/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://tfeng7.github.io/project/qingnian/</guid>
+      <description>&lt;p&gt;西北太平洋热带低压型波动对热带气旋生成作用的机理&lt;/p&gt;
+&lt;p&gt;Feng, T., X.-Q. Yang, W. Zhou, R. Huang, L. Wu, and D. Yang, 2016: Synoptic-Scale Waves in Sheared Background Flow over the Western North Pacific. J. Atmos. Sci., 73, 4583–4603, doi:10.1175/JAS-D-16-0064.1.
+冯涛, 黄荣辉, 杨修群, 沈新勇, 胡开明, 2016: 2004年与 2006年7~9月西北太平洋上空大尺度环流场与天气尺度波动的差别及其对热带气旋生成的影响. 大气科学, 40, 157–175, doi:DOI:10.3878/j.issn.1006-9895.1505.14162.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>国家自然科学基金国际(地区)合作与交流项目(已结题)</title>
+      <link>https://tfeng7.github.io/project/haixia/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://tfeng7.github.io/project/haixia/</guid>
+      <description>&lt;p&gt;全球变暖背景下西北太平洋台风活动的变化特征和趋势及其机理研究&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>国家重点基础研究发展计划(973)</title>
+      <link>https://tfeng7.github.io/project/973/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://tfeng7.github.io/project/973/</guid>
+      <description>&lt;p&gt;我国持续性重大天气异常形成机理与预测理论和方法研究,第三课题,复杂下垫面强迫和海陆气相互作用对我国持续性重大天气异常影响的物理过程研究，2012CB417203, 2012-2017, 参与，结题&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

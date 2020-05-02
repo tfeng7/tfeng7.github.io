@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>季风槽 | Welcome</title>
+    <link>https://tfeng7.github.io/tag/%E5%AD%A3%E9%A3%8E%E6%A7%BD/</link>
+      <atom:link href="https://tfeng7.github.io/tag/%E5%AD%A3%E9%A3%8E%E6%A7%BD/index.xml" rel="self" type="application/rss+xml" />
+    <description>季风槽</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tfeng7.github.io/images/icon_hu9dc07378506dda20152aae5397c06783_79375_512x512_fill_lanczos_center_2.png</url>
+      <title>季风槽</title>
+      <link>https://tfeng7.github.io/tag/%E5%AD%A3%E9%A3%8E%E6%A7%BD/</link>
+    </image>
+    
+    <item>
+      <title>Reexamination of the climatology and variability of the monsoon trough over the western North Pacific using a daily index</title>
+      <link>https://tfeng7.github.io/publication/2020-jc/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://tfeng7.github.io/publication/2020-jc/</guid>
+      <description>&lt;p&gt;This study developed a daily index to represent the northwest Pacific monsoon trough using westerly related cyclonic vorticity after removing tropical cyclones (TCs) from the reanalysis dataset. This index sufficiently captures the spatial and temporal variations in the monsoon trough. The use of this daily index revealed new features in the monsoon trough, including daily statistical characteristics, the active period over a year, and the main periodicity. A monsoon trough can be identified as active when the daily index is greater than $2.0×10^{-4} s^{-1}$. Active monsoon troughs occur during half of the summertime, and these is no monsoon trough on one-third of days, with the remaining days categorized as inactive. The most active month is August, in which approximately twenty days exhibit an active monsoon trough. Using this index, an active monsoon trough period, which is related to vigorous TC activity, was determined by identifying the establishment and decay dates for each year from 1979 to 2016. During most years, the active monsoon trough is established in mid-July and decays in late October, persisting for three to five months during the boreal summer. Moreover, spectral and wavelet analyses demonstrated the presence of intraseasonal, interannual and interdecadal variabilities in the monsoon trough. The dominant periodicity for the interannual variability varied from 1.5 to 4 years in different decades.The relationship between the monsoon trough and TCs are also revealed using this index, that approximately 60% of TC formations were related to an active monsoon trough.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Feng T.&lt;/strong&gt;*, X.-Q. Yang, X. Sun, D. Yang, C. Chu, 2020. Reexamination of the climatology and variability of the monsoon trough over the western North Pacific using a daily trough index.  &lt;em&gt;Journal of Climate&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1175/JCLI-D-19-0459.1.5&#34;&gt;https://doi.org/10.1175/JCLI-D-19-0459.1.5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Do the Monsoon Trough and the Tropical Upper-Tropospheric Trough Affect Synoptic-Scale Waves: A Comparative Study</title>
+      <link>https://tfeng7.github.io/publication/2020-jmsj/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://tfeng7.github.io/publication/2020-jmsj/</guid>
+      <description>&lt;p&gt;Using the Climate Forecast System Reanalysis, Joint Typhoon Warning Center best track, and Tropical Rainfall Measuring Mission precipitation data, two long-lasting synoptic-scale wave trains in 2004 and 2006 are selected to investigate the atmospheric factors controlling the structures of westward-propagating synoptic-scale disturbances over the tropical western North Pacific. The essential difference between these two wave trains is found in their vertical structures. In 2004, the maximum perturbations occurred from the middle to lower troposphere with an equivalent barotropic structure; however, in 2006, they primarily occurred in the upper troposphere with a prominent tilt regarding height. Distinct configurations of the monsoon troughs, the tropical upper-tropospheric troughs (TUTT), and associated vertical wind shear caused such structural differences. In 2004, the TUTT shifted eastward, creating an easterly sheared environment to confine synoptic-scale waves in the lower troposphere. Then, the monsoon trough enhanced the wave activity through barotropic energy conversion in the lower troposphere. In contrast, while the TUTT shifted westward in 2006, synoptic-scale waves prevailed in the upper troposphere by the environmental westerly shear. Meanwhile, the disturbances developed in the upper troposphere through to the conversion of kinetic energy from the TUTT, exhibiting a top-heavy vertical structure. The coherent movement of the monsoon trough and the TUTT modulate the vertical structure and the development of the synoptic-scale waves.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Feng T.&lt;/strong&gt;, X.-Q. Yang, R. Huang, L. Wu*, D. Yang, 2020. How Do the Monsoon Trough and the Tropical Upper-Tropospheric Trough Affect Synoptic-Scale Waves: A Comparative Study. *Journal of the Meteorological society of Japan*, **98**, &lt;a href=&#34;https://doi.org/10.2151/jmsj.2020-037&#34;&gt;https://doi.org/10.2151/jmsj.2020-037&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
