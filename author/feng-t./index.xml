@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R. Huang | Welcome</title>
-    <link>https://tfeng7.github.io/author/r.-huang/</link>
-      <atom:link href="https://tfeng7.github.io/author/r.-huang/index.xml" rel="self" type="application/rss+xml" />
-    <description>R. Huang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <title>Feng, T. | Welcome</title>
+    <link>https://tfeng7.github.io/author/feng-t./</link>
+      <atom:link href="https://tfeng7.github.io/author/feng-t./index.xml" rel="self" type="application/rss+xml" />
+    <description>Feng, T.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tfeng7.github.io/images/icon_hu9dc07378506dda20152aae5397c06783_79375_512x512_fill_lanczos_center_2.png</url>
-      <title>R. Huang</title>
-      <link>https://tfeng7.github.io/author/r.-huang/</link>
+      <title>Feng, T.</title>
+      <link>https://tfeng7.github.io/author/feng-t./</link>
     </image>
+    
+    <item>
+      <title>Reexamination of the climatology and variability of the monsoon trough over the western North Pacific using a daily index</title>
+      <link>https://tfeng7.github.io/publication/2020-jc/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://tfeng7.github.io/publication/2020-jc/</guid>
+      <description>&lt;p&gt;This study developed a daily index to represent the northwest Pacific monsoon trough using westerly related cyclonic vorticity after removing tropical cyclones (TCs) from the reanalysis dataset. This index sufficiently captures the spatial and temporal variations in the monsoon trough. The use of this daily index revealed new features in the monsoon trough, including daily statistical characteristics, the active period over a year, and the main periodicity. A monsoon trough can be identified as active when the daily index is greater than $2.0×10^{-4} s^{-1}$. Active monsoon troughs occur during half of the summertime, and these is no monsoon trough on one-third of days, with the remaining days categorized as inactive. The most active month is August, in which approximately twenty days exhibit an active monsoon trough. Using this index, an active monsoon trough period, which is related to vigorous TC activity, was determined by identifying the establishment and decay dates for each year from 1979 to 2016. During most years, the active monsoon trough is established in mid-July and decays in late October, persisting for three to five months during the boreal summer. Moreover, spectral and wavelet analyses demonstrated the presence of intraseasonal, interannual and interdecadal variabilities in the monsoon trough. The dominant periodicity for the interannual variability varied from 1.5 to 4 years in different decades.The relationship between the monsoon trough and TCs are also revealed using this index, that approximately 60% of TC formations were related to an active monsoon trough.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Feng T.&lt;/strong&gt;*, X.-Q. Yang, X. Sun, D. Yang, C. Chu, 2020. Reexamination of the climatology and variability of the monsoon trough over the western North Pacific using a daily trough index.  &lt;em&gt;Journal of Climate&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1175/JCLI-D-19-0459.1.5&#34;&gt;https://doi.org/10.1175/JCLI-D-19-0459.1.5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How Do the Monsoon Trough and the Tropical Upper-Tropospheric Trough Affect Synoptic-Scale Waves: A Comparative Study</title>
@@ -19,26 +29,6 @@
       <guid>https://tfeng7.github.io/publication/2020-jmsj/</guid>
       <description>&lt;p&gt;Using the Climate Forecast System Reanalysis, Joint Typhoon Warning Center best track, and Tropical Rainfall Measuring Mission precipitation data, two long-lasting synoptic-scale wave trains in 2004 and 2006 are selected to investigate the atmospheric factors controlling the structures of westward-propagating synoptic-scale disturbances over the tropical western North Pacific. The essential difference between these two wave trains is found in their vertical structures. In 2004, the maximum perturbations occurred from the middle to lower troposphere with an equivalent barotropic structure; however, in 2006, they primarily occurred in the upper troposphere with a prominent tilt regarding height. Distinct configurations of the monsoon troughs, the tropical upper-tropospheric troughs (TUTT), and associated vertical wind shear caused such structural differences. In 2004, the TUTT shifted eastward, creating an easterly sheared environment to confine synoptic-scale waves in the lower troposphere. Then, the monsoon trough enhanced the wave activity through barotropic energy conversion in the lower troposphere. In contrast, while the TUTT shifted westward in 2006, synoptic-scale waves prevailed in the upper troposphere by the environmental westerly shear. Meanwhile, the disturbances developed in the upper troposphere through to the conversion of kinetic energy from the TUTT, exhibiting a top-heavy vertical structure. The coherent movement of the monsoon trough and the TUTT modulate the vertical structure and the development of the synoptic-scale waves.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Feng T.&lt;/strong&gt;, X.-Q. Yang, R. Huang, L. Wu*, D. Yang, 2020. How Do the Monsoon Trough and the Tropical Upper-Tropospheric Trough Affect Synoptic-Scale Waves: A Comparative Study. *Journal of the Meteorological society of Japan*, **98**, &lt;a href=&#34;https://doi.org/10.2151/jmsj.2020-037&#34;&gt;https://doi.org/10.2151/jmsj.2020-037&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Causes of the active typhoon season in 2016 following a strong El Niño with a comparison to 1998</title>
-      <link>https://tfeng7.github.io/publication/2018-joc/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://tfeng7.github.io/publication/2018-joc/</guid>
-      <description>&lt;p&gt;This article analysed two typhoon seasons (1998 and 2016) over the western North Pacific (WNP) with similar preceding background conditions of the tropical Pacific sea surface temperature (SST). Following the strong El Niño event in the preceding winter, the typhoon season was inactive in 1998 while active in 2016. Compared with 1998, the monsoon trough (MT) in 2016 shifted more eastwards, leading to an increase of the mid‐level water vapour, lower‐tropospheric relative vorticity and upper‐tropospheric divergence, and a decrease of the vertical wind shear. Additionally, the eastwards extension of the MT in 2016 induced more active tropical depression (TD)‐type waves than those in 1998. The analysis of the energy budget suggested that the eastwards shift of the MT during the 2016 typhoon season provided increased eddy kinetic energy for typhoon genesis, due to the joint contributions of the meridional shear of the mean zonal winds and the zonal wind convergence over the WNP. Moreover, the WNP entered a La Niña‐like SST pattern after July 2016. The relatively slower developing process of this pattern sustained the warmer SST anomalies and the anomalous cyclonic circulation, which the eastwards extension of the MT can be attributed. Hence, compared to 1998, the active typhoon season in 2016 is attributed to the eastwards extension of the MT, more active TD‐type wave activities, and slow developing process of a La Niña‐like SST pattern in 2016 typhoon season.&lt;/p&gt;
-&lt;p&gt;Huangfu, J.*, R. Huang, W. Chen, and &lt;strong&gt;T. Feng&lt;/strong&gt;, 2018: Causes of the active typhoon season in 2016 following a strong El Niño with a comparison to 1998. &lt;em&gt;Int. J. Climatol&lt;/em&gt;, &lt;strong&gt;38&lt;/strong&gt;, 1107–1118, &lt;a href=&#34;https://doi.org/10.1002/joc.5437&#34;&gt;https://doi.org/10.1002/joc.5437&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Interdecadal variation of tropical cyclone genesis and its relationship to the monsoon trough over the western North Pacific</title>
-      <link>https://tfeng7.github.io/publication/2017-ijc/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://tfeng7.github.io/publication/2017-ijc/</guid>
-      <description>&lt;p&gt;Using the European Centre for Medium‐Range Weather Forecasts Interim Reanalysis data set and the tropical cyclone (TC) best track data obtained from the International Best Tracks Archive for Climate Stewardship project from June to November for the epoch of 1979–2013, this study reexamines the recent interdecadal shift in TC genesis over the western North Pacific (WNP) in the late 1990s. An interdecadal decrease in the frequency of the WNP TC genesis was observed during 1998–2013 compared to the period of 1979–1997. The spatial distribution of the interdecadal decrease of the WNP TC genesis running northwest‐southeast, consistent with the monsoon trough (MT) zone. The results imply that the WNP genesis may be closely related to the MT on the interdecadal timescale. After the late 1990s, the intensity of the WNP MT becomes weaker and it extends more westward, thereby providing an unfavourable condition for the TC genesis. Through a diagnosis of the energetics, we suggested that the barotropic energy conversion in the eastern part of the WNP MT tends to be weakened in the late 1990s, hence less energy to support the WNP TC genesis. Both the meridional shear and the convergence of the mean zonal winds over the eastern WNP MT have an important impact on the conversion from mean kinetic energy to eddy kinetic energy, which can be considered as the atmospheric cause of the interdecadal decrease of TC genesis.&lt;/p&gt;
-&lt;p&gt;Huangfu, J.*, R. Huang, W. Chen, &lt;strong&gt;T. Feng,&lt;/strong&gt; and L. Wu, 2017: Interdecadal variation of tropical cyclone genesis and its relationship to the monsoon trough over the western North Pacific. International Journal of Climatology, 37, 3587–3596, doi:10.1002/joc.4939.&lt;/p&gt;
 </description>
     </item>
     
@@ -67,6 +57,15 @@
       <guid>https://tfeng7.github.io/publication/2016-jas/</guid>
       <description>&lt;p&gt;Tropical depression (TD)-type waves are the dominant mode of synoptic-scale ﬂuctuations over the western North Paciﬁc. By applying spatiotemporal ﬁlters to the observed OLR data and the NCEP–DOE AMIP-II reanalysis data for 1979–2013, this study reveals the characteristics and energetics of convectively coupled TD-type waves under the effects of different circulation patterns in association with vertical wind shear. Results exhibit that different ambient sheared ﬂows signiﬁcantly affect the vertical structure of westward-propagating TD-type waves, with a lower-tropospheric mode in an easterly sheared background and an upper-tropospheric mode in a westerly sheared background. Energetic diagnoses demonstrate that when the disturbance is trapped in the lower (upper) level by easterly (westerly) shear, the horizontal mean ﬂow in the lower (upper) level favors wave growth by converting energy from the shear of the zonal mean ﬂow (from the convergence of the meridional mean ﬂow). During the penetration of a westward-propagating synoptic-scale disturbance from a westerly sheared ﬂow into an easterly sheared ﬂow, the upper-level disturbance decays, and the lower-level disturbance intensiﬁes. Meanwhile, the upper-level kinetic energy is transferred downward, but the effect induces the wave growth only conﬁned to the midlevels. Consequently, the low-level growth of the westward-propagating upper-level synoptic-scale disturbance is mainly attributed to the barotropic conversion of horizontal mean ﬂow in the lower troposphere.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Feng, T.&lt;/strong&gt;, X.-Q. Yang*, W. Zhou, R. Huang, L. Wu, and D. Yang, 2016: Synoptic-Scale Waves in Sheared Background Flow over the Western North Pacific. &lt;em&gt;J. Atmos. Sci.&lt;/em&gt;, &lt;strong&gt;73&lt;/strong&gt;, 4583–4603, &lt;a href=&#34;https://doi.org/10.1175/JAS-D-16-0064.1&#34;&gt;https://doi.org/10.1175/JAS-D-16-0064.1&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large-scale circulation patterns favourable to tropical cyclogenesis over the western North Pacific and associated barotropic energy conversions</title>
+      <link>https://tfeng7.github.io/publication/2014-joc/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://tfeng7.github.io/publication/2014-joc/</guid>
+      <description>&lt;p&gt;*&lt;strong&gt;Feng, T.&lt;/strong&gt;*, G. H. Chen, R. H. Huang, and X. Y. Shen, 2014: Large-scale circulation patterns favourable to tropical cyclogenesis over the western North Pacific and associated barotropic energy conversions. &lt;em&gt;Int. J. Climatol&lt;/em&gt;, &lt;strong&gt;34&lt;/strong&gt;, 216–227, &lt;a href=&#34;https://doi.org/10.1002/joc.3680&#34;&gt;https://doi.org/10.1002/joc.3680&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
